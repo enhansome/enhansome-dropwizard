@@ -39,8 +39,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) ⚠️ Archived - allows for HTTP redirects.
 * [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) ⭐ 13 | 🐛 3 | 🌐 Java | 📅 2017-11-14 - A Cryptographic Bundle for Dropwizard
 * [dropwizard-caching-bundle](https://github.com/bazaarvoice/dropwizard-caching-bundle) ⚠️ Archived - generate cache-control options for resources and caching responses.
-* [dropwizard-version-info](https://github.com/palantir/dropwizard-version-info) ⚠️ Archived - A Dropwizard bundle which exposes a version endpoint
 * [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) ⭐ 6 | 🐛 4 | 🌐 Java | 📅 2025-09-30 - MaxMind GeoIP2 support for dropwizard
+* [dropwizard-version-info](https://github.com/palantir/dropwizard-version-info) ⚠️ Archived - A Dropwizard bundle which exposes a version endpoint
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) ⚠️ Archived - A Money bundle for Dropwizard
 * [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 495,272 | 🐛 100 | 📅 2026-06-30.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 495,658 | 🐛 100 | 📅 2026-06-30.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

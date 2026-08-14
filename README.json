@@ -253,20 +253,6 @@
         },
         {
           "node_type": "item",
-          "title": "dropwizard-version-info",
-          "description": "A Dropwizard bundle which exposes a version endpoint",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2017-01-09T04:05:36Z",
-            "owner": "palantir",
-            "repo": "dropwizard-version-info",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "dropwizard-maxmind-bundle",
           "description": "MaxMind GeoIP2 support for dropwizard",
           "children": [],
@@ -276,6 +262,20 @@
             "last_commit": "2025-09-30T07:28:13Z",
             "owner": "phaneesh",
             "repo": "dropwizard-maxmind-bundle",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dropwizard-version-info",
+          "description": "A Dropwizard bundle which exposes a version endpoint",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2017-01-09T04:05:36Z",
+            "owner": "palantir",
+            "repo": "dropwizard-version-info",
             "stars": 6
           }
         },
@@ -350,7 +350,7 @@
             "last_commit": "2016-09-08T14:39:34Z",
             "owner": "bazaarvoice",
             "repo": "dropwizard-configurable-assets-bundle",
-            "stars": 54
+            "stars": 52
           }
         },
         {
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:35:30.771Z",
+    "last_updated": "2026-08-14T15:27:21.165Z",
     "original_repository": "stve/awesome-dropwizard",
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
     "enhanced_repository": "enhansome/enhansome-dropwizard",
