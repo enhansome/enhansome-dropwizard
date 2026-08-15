@@ -89,7 +89,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Guice
 
 * [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) ⭐ 266 | 🐛 21 | 🌐 Java | 📅 2020-02-05 - Adds support for Guice.
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) ⭐ 241 | 🐛 4 | 🌐 Java | 📅 2026-08-13 - Dropwizard guice integration
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) ⭐ 241 | 🐛 5 | 🌐 Java | 📅 2026-08-14 - Dropwizard guice integration
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) ⭐ 45 | 🐛 16 | 🌐 Java | 📅 2025-11-14 - A Dropwizard bundle to handle Guice integration.
 
 ### Deployment
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 495,658 | 🐛 100 | 📅 2026-06-30.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 496,003 | 🐛 100 | 📅 2026-06-30.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

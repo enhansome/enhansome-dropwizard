@@ -609,7 +609,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T06:59:00Z",
+            "last_commit": "2026-08-14T23:03:05Z",
             "owner": "xvik",
             "repo": "dropwizard-guicey",
             "stars": 241
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:27:21.165Z",
+    "last_updated": "2026-08-15T14:56:48.542Z",
     "original_repository": "stve/awesome-dropwizard",
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
     "enhanced_repository": "enhansome/enhansome-dropwizard",
