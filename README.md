@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 496,003 | 🐛 100 | 📅 2026-06-30.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 496,404 | 🐛 100 | 📅 2026-06-30.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
