@@ -77,7 +77,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T01:57:26Z",
+            "last_commit": "2026-08-17T01:51:23Z",
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
             "stars": 55
@@ -609,7 +609,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T23:03:05Z",
+            "last_commit": "2026-08-17T06:43:06Z",
             "owner": "xvik",
             "repo": "dropwizard-guicey",
             "stars": 241
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:56:31.367Z",
+    "last_updated": "2026-08-17T14:59:01.816Z",
     "original_repository": "stve/awesome-dropwizard",
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
     "enhanced_repository": "enhansome/enhansome-dropwizard",
