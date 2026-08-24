@@ -72,7 +72,7 @@
             "archived": false,
             "id": 22608482,
             "language": "Java",
-            "last_commit": "2026-08-17T01:51:23Z",
+            "last_commit": "2026-08-24T00:54:58Z",
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
             "stars": 55
@@ -307,6 +307,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Brahma-HibernateUtils",
+              "description": "An annotation processor to keep track of classes to make entity registration in dropwizard super simple.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132906669,
+                "language": "Java",
+                "last_commit": "2018-05-25T08:13:00Z",
+                "owner": "aashrai",
+                "repo": "brahma-hibernateutils",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Boilerplate Destruction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "dropwizard-jwt-cookie-authentication",
               "description": "Dropwizard bundle managing authentication through JWT cookies",
               "children": [],
@@ -508,6 +530,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "riemann-bundle",
+              "description": "Simplifies dropwizard metrics integration into Riemann",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56362941,
+                "language": "Java",
+                "last_commit": "2021-04-16T04:41:28Z",
+                "owner": "phaneesh",
+                "repo": "riemann-bundle",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Metrics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "dropwizard-gelf",
               "description": "Addon bundle for Dropwizard to support logging to a GELF-enabled servers",
               "children": [],
@@ -702,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:57:39.742Z",
+    "last_updated": "2026-08-24T14:40:24.971Z",
     "original_repository": "stve/awesome-dropwizard",
     "original_repository_id": 38694527,
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
