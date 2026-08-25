@@ -50,7 +50,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Authentication
 
-* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) ⭐ 38 | 🐛 5 | 🌐 Java | 📅 2026-07-20 - Dropwizard bundle managing authentication through JWT cookies
+* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) ⭐ 38 | 🐛 5 | 🌐 Java | 📅 2026-08-25 - Dropwizard bundle managing authentication through JWT cookies
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) ⚠️ Archived - LDAP authentication for Dropwizard
 
 ### Assets
@@ -63,7 +63,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) ⚠️ Archived - A set of classes for using Elasticsearch in a Dropwizard service
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) ⚠️ Archived - Dropwizard support for Cassandra
 * [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2015-05-17 - Factories and health checks for connecting to mongoDB.
-* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) ⭐ 20 | 🐛 1 | 🌐 Java | 📅 2026-08-24 - Embedded OrientDB server for dropwizard
+* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2026-08-25 - Embedded OrientDB server for dropwizard
 * [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) ⚠️ Archived - Zookeeper service discovery bundle and client for dropwizard.
 * [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2017-05-12 - A Dropwizard Bundle for Etcd
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) ⚠️ Archived - Dropwizard support for Riak
@@ -89,7 +89,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Guice
 
 * [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) ⭐ 266 | 🐛 21 | 🌐 Java | 📅 2020-02-05 - Adds support for Guice.
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) ⭐ 241 | 🐛 5 | 🌐 Java | 📅 2026-08-24 - Dropwizard guice integration
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) ⭐ 241 | 🐛 4 | 🌐 Java | 📅 2026-08-25 - Dropwizard guice integration
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) ⭐ 45 | 🐛 16 | 🌐 Java | 📅 2025-11-14 - A Dropwizard bundle to handle Guice integration.
 
 ### Deployment
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 499,707 | 🐛 106 | 📅 2026-08-21.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 499,829 | 🐛 106 | 📅 2026-08-21.
 
 ## License
 

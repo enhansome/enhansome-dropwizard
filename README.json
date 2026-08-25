@@ -336,7 +336,7 @@
                 "archived": false,
                 "id": 49969573,
                 "language": "Java",
-                "last_commit": "2026-07-20T23:08:35Z",
+                "last_commit": "2026-08-25T14:52:55Z",
                 "owner": "dhatim",
                 "repo": "dropwizard-jwt-cookie-authentication",
                 "stars": 38
@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 23267149,
                 "language": "Java",
-                "last_commit": "2026-08-24T23:02:33Z",
+                "last_commit": "2026-08-25T07:33:23Z",
                 "owner": "xvik",
                 "repo": "dropwizard-orient-server",
                 "stars": 20
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 23605023,
                 "language": "Java",
-                "last_commit": "2026-08-24T23:03:29Z",
+                "last_commit": "2026-08-25T07:34:43Z",
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
                 "stars": 241
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:27.581Z",
+    "last_updated": "2026-08-25T15:25:56.422Z",
     "original_repository": "stve/awesome-dropwizard",
     "original_repository_id": 38694527,
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
