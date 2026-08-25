@@ -455,7 +455,7 @@
                 "archived": false,
                 "id": 23267149,
                 "language": "Java",
-                "last_commit": "2026-08-13T06:59:47Z",
+                "last_commit": "2026-08-24T23:02:33Z",
                 "owner": "xvik",
                 "repo": "dropwizard-orient-server",
                 "stars": 20
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 23605023,
                 "language": "Java",
-                "last_commit": "2026-08-17T06:43:06Z",
+                "last_commit": "2026-08-24T23:03:29Z",
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
                 "stars": 241
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:20:38.840Z",
+    "last_updated": "2026-08-25T06:32:27.581Z",
     "original_repository": "stve/awesome-dropwizard",
     "original_repository_id": 38694527,
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
