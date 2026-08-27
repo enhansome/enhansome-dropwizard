@@ -746,9 +746,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:04:36.733Z",
-    "original_repository": "stve/awesome-dropwizard",
-    "original_repository_id": 38694527,
+    "last_updated": "2026-08-27T11:34:05.218Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 38694527,
+      "language": "Shell",
+      "last_commit": "2018-12-07T17:53:51Z",
+      "owner": "stve",
+      "repo": "awesome-dropwizard",
+      "stars": 104
+    },
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
     "enhanced_repository": "enhansome/enhansome-dropwizard",
     "enhanced_repository_description": null,
