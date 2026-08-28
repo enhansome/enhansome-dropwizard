@@ -16,7 +16,8 @@
             "owner": "yammer",
             "repo": "tenacity",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "smoketurner",
             "repo": "dropwizard-swagger",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "yammer",
             "repo": "breakerbox",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "smoketurner",
             "repo": "dropwizard-graphql",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 22608482,
             "language": "Java",
-            "last_commit": "2026-08-24T00:54:58Z",
+            "last_commit": "2026-08-28T14:48:53Z",
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "smoketurner",
             "repo": "dropwizard-consul",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "tkrille",
             "repo": "dropwizard-template-config",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "smoketurner",
             "repo": "dropwizard-zipkin",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mtakaki",
             "repo": "dropwizard-circuitbreaker",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "roskart",
             "repo": "dropwizard-jaxws",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "mrserverless",
             "repo": "dropwizard-xml",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mbknor",
             "repo": "dropwizard-activemq-bundle",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "msteinhoff",
             "repo": "dropwizard-grpc",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "bascan",
             "repo": "aws-dropwizard",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "bazaarvoice",
             "repo": "dropwizard-redirect-bundle",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "meltmedia",
             "repo": "dropwizard-crypto",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "bazaarvoice",
             "repo": "dropwizard-caching-bundle",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "phaneesh",
             "repo": "dropwizard-maxmind-bundle",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "palantir",
             "repo": "dropwizard-version-info",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "smoketurner",
             "repo": "dropwizard-money",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:40:01.849Z"
         },
         {
           "children": [
@@ -318,7 +338,8 @@
                 "owner": "aashrai",
                 "repo": "brahma-hibernateutils",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -340,7 +361,8 @@
                 "owner": "dhatim",
                 "repo": "dropwizard-jwt-cookie-authentication",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "yammer",
                 "repo": "dropwizard-auth-ldap",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -377,7 +400,8 @@
                 "owner": "bazaarvoice",
                 "repo": "dropwizard-configurable-assets-bundle",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "rnorth",
                 "repo": "dropwizard-markdown-assets-bundle",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -414,7 +439,8 @@
                 "owner": "dropwizard",
                 "repo": "dropwizard-elasticsearch",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -429,7 +455,8 @@
                 "owner": "composable-systems",
                 "repo": "dropwizard-cassandra",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -444,7 +471,8 @@
                 "owner": "eeb",
                 "repo": "dropwizard-mongo",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -459,7 +487,8 @@
                 "owner": "xvik",
                 "repo": "dropwizard-orient-server",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "appform-io",
                 "repo": "dropwizard-service-discovery",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "meltmedia",
                 "repo": "dropwizard-etcd",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -504,7 +535,8 @@
                 "owner": "smoketurner",
                 "repo": "dropwizard-riak",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -519,7 +551,8 @@
                 "owner": "smoketurner",
                 "repo": "dropwizard-atomix",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -541,7 +574,8 @@
                 "owner": "phaneesh",
                 "repo": "riemann-bundle",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -563,7 +597,8 @@
                 "owner": "gini",
                 "repo": "dropwizard-gelf",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -578,7 +613,8 @@
                 "owner": "tradier",
                 "repo": "dropwizard-raven",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -593,7 +629,8 @@
                 "owner": "Wikia",
                 "repo": "dropwizard-logstash-encoder",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -615,7 +652,8 @@
                 "owner": "jaredstehler",
                 "repo": "dropwizard-quartz",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -630,7 +668,8 @@
                 "owner": "knowm",
                 "repo": "dropwizard-sundial",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -645,7 +684,8 @@
                 "owner": "spinscale",
                 "repo": "dropwizard-jobs",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -667,7 +707,8 @@
                 "owner": "HubSpot",
                 "repo": "dropwizard-guice",
                 "stars": 266
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -682,7 +723,8 @@
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -697,7 +739,8 @@
                 "owner": "HubSpot",
                 "repo": "dropwizard-guicier",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -719,7 +762,8 @@
                 "owner": "twilio",
                 "repo": "wiztowar",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             },
             {
               "node_type": "item",
@@ -734,7 +778,8 @@
                 "owner": "rvs-fluid-it",
                 "repo": "wizard-in-a-box",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
             }
           ],
           "description": null,
@@ -746,7 +791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:57:47.114Z",
+    "last_updated": "2026-08-28T23:40:01.849Z",
     "original_repository_info": {
       "archived": false,
       "id": 38694527,

@@ -26,7 +26,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) ⚠️ Archived - Serves Swagger UI static content and loads Swagger endpoints.
 * [breakerbox](https://github.com/yammer/breakerbox) ⚠️ Archived - Frontend for Tenacity + Archaius
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - A GraphQL bundle for Dropwizard
-* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) ⭐ 55 | 🐛 4 | 🌐 Java | 📅 2026-08-24 - Support for reading and writing Google Protocol Buffer objects within Dropwizard
+* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) ⭐ 55 | 🐛 1 | 🌐 Java | 📅 2026-08-28 - Support for reading and writing Google Protocol Buffer objects within Dropwizard
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) ⚠️ Archived - A Consul bundle for Dropwizard
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) ⚠️ Archived - enables you to write your config.yaml as a Freemarker template.
 * [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) ⚠️ Archived - A Zipkin bundle for Dropwizard
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 500,537 | 🐛 105 | 📅 2026-08-21.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 500,851 | 🐛 105 | 📅 2026-08-21.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
