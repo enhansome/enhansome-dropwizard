@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dropwizard + Hystrix Module.",
+            "homepage": null,
             "id": 14969928,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-15T04:43:57Z",
+            "open_issues": 2,
             "owner": "yammer",
             "repo": "tenacity",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "a Dropwizard bundle that serves Swagger UI static content and loads Swagger endpoints.",
+            "homepage": null,
             "id": 41735099,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-25T19:05:27Z",
+            "open_issues": 3,
             "owner": "smoketurner",
             "repo": "dropwizard-swagger",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "dropwizard",
+              "dropwizard-swagger",
+              "java",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Frontend for Tenacity + Archaius",
+            "homepage": null,
             "id": 18897715,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-23T09:06:41Z",
+            "open_issues": 6,
             "owner": "yammer",
             "repo": "breakerbox",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -58,12 +78,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dropwizard GraphQL Bundle",
+            "homepage": null,
             "id": 74578703,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-16T07:02:10Z",
+            "open_issues": 2,
             "owner": "smoketurner",
             "repo": "dropwizard-graphql",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "dropwizard",
+              "dropwizard-graphql",
+              "graphql",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -74,12 +104,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for reading and writing Google Protocol Buffer objects within Dropwizard",
+            "homepage": null,
             "id": 22608482,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:48:53Z",
+            "open_issues": 1,
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "dropwizard",
+              "java",
+              "protobuf",
+              "protocol-buffers"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -90,12 +130,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dropwizard Consul Bundle",
+            "homepage": null,
             "id": 50309640,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-27T23:50:49Z",
+            "open_issues": 0,
             "owner": "smoketurner",
             "repo": "dropwizard-consul",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "consul",
+              "dropwizard",
+              "dropwizard-consul",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -106,12 +156,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dropwizard bundle that enables you to write your config.yaml as a Freemarker template.",
+            "homepage": "https://github.com/tkrille/dropwizard-template-config",
             "id": 30471281,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-16T07:13:38Z",
+            "open_issues": 0,
             "owner": "tkrille",
             "repo": "dropwizard-template-config",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "configuration",
+              "dropwizard",
+              "dropwizard-bundle",
+              "microservices",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -122,12 +183,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dropwizard Zipkin Bundle",
+            "homepage": null,
             "id": 51269282,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-27T01:56:36Z",
+            "open_issues": 2,
             "owner": "smoketurner",
             "repo": "dropwizard-zipkin",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "distributed-tracing",
+              "dropwizard",
+              "dropwizard-zipkin",
+              "instrumentation",
+              "java",
+              "tracing",
+              "zipkin",
+              "zipkin-brave"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -138,12 +213,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A circuit breaker design pattern for dropwizard",
+            "homepage": null,
             "id": 43739496,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-26T21:38:12Z",
+            "open_issues": 2,
             "owner": "mtakaki",
             "repo": "dropwizard-circuitbreaker",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "circuit-breaker",
+              "dropwizard"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -154,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dropwizard bundle that enables building SOAP web services and clients using JAX-WS API",
+            "homepage": null,
             "id": 9545480,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-03T20:58:07Z",
+            "open_issues": 0,
             "owner": "roskart",
             "repo": "dropwizard-jaxws",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -170,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dropwizard bundle for processing and validating XMLs",
+            "homepage": null,
             "id": 15707819,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-30T11:38:26Z",
+            "open_issues": 0,
             "owner": "mrserverless",
             "repo": "dropwizard-xml",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -186,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use it when you need to send and receive JSON via ActiveMQ in your Dropwizard application",
+            "homepage": null,
             "id": 18628132,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-04T14:44:42Z",
+            "open_issues": 6,
             "owner": "mbknor",
             "repo": "dropwizard-activemq-bundle",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -202,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A set of classes to use a gRPC server in a Dropwizard service.",
+            "homepage": "http://msteinhoff.github.io/dropwizard-grpc/",
             "id": 60859792,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-03T20:02:59Z",
+            "open_issues": 6,
             "owner": "msteinhoff",
             "repo": "dropwizard-grpc",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -218,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utility library that integrates the Amazon SQS and SNS offering with the Dropwizard REST framework.",
+            "homepage": null,
             "id": 27876189,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-12-01T14:15:41Z",
+            "open_issues": 1,
             "owner": "bascan",
             "repo": "aws-dropwizard",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -234,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple bundle for DropWizard that allows for HTTP redirects",
+            "homepage": null,
             "id": 6945118,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-09T15:21:49Z",
+            "open_issues": 0,
             "owner": "bazaarvoice",
             "repo": "dropwizard-redirect-bundle",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -250,12 +363,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Crytpographic Bundle for Dropwizard",
+            "homepage": null,
             "id": 26845372,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-11-14T17:22:27Z",
+            "open_issues": 3,
             "owner": "meltmedia",
             "repo": "dropwizard-crypto",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "cryptography",
+              "dropwizard",
+              "dropwizard-bundle",
+              "encryption",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -266,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Response caching bundle for Dropwizard resources",
+            "homepage": null,
             "id": 21859706,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-27T06:20:19Z",
+            "open_issues": 10,
             "owner": "bazaarvoice",
             "repo": "dropwizard-caching-bundle",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -282,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple bundle for integrating MaxMind into dropwizard",
+            "homepage": null,
             "id": 56960179,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-09-30T07:28:13Z",
+            "open_issues": 4,
             "owner": "phaneesh",
             "repo": "dropwizard-maxmind-bundle",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -298,12 +432,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple Dropwizard bundle which exposes a version string as a Jersey resource under `/version`.",
+            "homepage": null,
             "id": 52120162,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-01-09T04:05:36Z",
+            "open_issues": 6,
             "owner": "palantir",
             "repo": "dropwizard-version-info",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "octo-correct-managed"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -314,12 +455,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dropwizard Money Bundle",
+            "homepage": null,
             "id": 87451180,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-29T12:21:15Z",
+            "open_issues": 0,
             "owner": "smoketurner",
             "repo": "dropwizard-money",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "dropwizard",
+              "dropwizard-money",
+              "java",
+              "money"
+            ]
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
         },
@@ -332,12 +483,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Entity Registration in Dropwizard made dead simple",
+                "homepage": "https://medium.com/zefo-tech/brahma-hibernateutils-entity-registration-in-dropwizard-made-dead-simple-69be4d2f8191",
                 "id": 132906669,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-05-25T08:13:00Z",
+                "open_issues": 0,
                 "owner": "aashrai",
                 "repo": "brahma-hibernateutils",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "annotation-processor",
+                  "dropwizard",
+                  "dropwizard-application",
+                  "hibernate",
+                  "hibernate-orm",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -355,12 +518,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dropwizard bundle managing authentication through JWT cookies",
+                "homepage": null,
                 "id": 49969573,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T14:52:55Z",
+                "open_issues": 5,
                 "owner": "dhatim",
                 "repo": "dropwizard-jwt-cookie-authentication",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "cookie",
+                  "dropwizard",
+                  "java",
+                  "jwt",
+                  "module"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -371,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dropwizard Authentication Module for LDAP using JNDI.",
+                "homepage": null,
                 "id": 14966400,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-07-31T18:43:07Z",
+                "open_issues": 4,
                 "owner": "yammer",
                 "repo": "dropwizard-auth-ldap",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -394,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An implementation of an AssetBundle for use in Dropwizard that allows user configuration.",
+                "homepage": null,
                 "id": 6395921,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2016-09-08T14:39:34Z",
+                "open_issues": 5,
                 "owner": "bazaarvoice",
                 "repo": "dropwizard-configurable-assets-bundle",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -410,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A dropwizard assets bundle that renders Markdown files as pretty HTML",
+                "homepage": null,
                 "id": 69659994,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2016-10-02T08:43:44Z",
+                "open_issues": 1,
                 "owner": "rnorth",
                 "repo": "dropwizard-markdown-assets-bundle",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -433,12 +622,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of classes for using Elasticsearch in a Dropwizard service.",
+                "homepage": "http://dropwizard.github.io/dropwizard-elasticsearch/",
                 "id": 12068070,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-18T12:08:00Z",
+                "open_issues": 8,
                 "owner": "dropwizard",
                 "repo": "dropwizard-elasticsearch",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "dropwizard",
+                  "elasticsearch"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -449,12 +646,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dropwizard support for Cassandra",
+                "homepage": null,
                 "id": 19749649,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-12T02:20:55Z",
+                "open_issues": 3,
                 "owner": "composable-systems",
                 "repo": "dropwizard-cassandra",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "cassandra",
+                  "datastax-cassandra-driver",
+                  "dropwizard",
+                  "dropwizard-cassandra",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -465,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Factories and health checks for connecting to mongoDB from dropwizard.",
+                "homepage": null,
                 "id": 21286307,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2015-05-17T19:47:58Z",
+                "open_issues": 0,
                 "owner": "eeb",
                 "repo": "dropwizard-mongo",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -481,12 +694,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embedded OrientDB server for dropwizard",
+                "homepage": "http://xvik.github.io/dropwizard-orient-server/",
                 "id": 23267149,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-25T07:33:23Z",
+                "open_issues": 0,
                 "owner": "xvik",
                 "repo": "dropwizard-orient-server",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "dropwizard",
+                  "java",
+                  "orientdb"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -497,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Zookeeper service discovery bundle and client for dropwizard.",
+                "homepage": null,
                 "id": 53789166,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-26T04:06:13Z",
+                "open_issues": 11,
                 "owner": "appform-io",
                 "repo": "dropwizard-service-discovery",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -513,12 +740,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Dropwizard Bundle for Etcd",
+                "homepage": null,
                 "id": 37560108,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-12T23:43:38Z",
+                "open_issues": 1,
                 "owner": "meltmedia",
                 "repo": "dropwizard-etcd",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "clustering",
+                  "dropwizard",
+                  "dropwizard-bundle",
+                  "etcd",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -529,12 +767,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dropwizard Riak Support",
+                "homepage": null,
                 "id": 55263635,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-29T12:20:24Z",
+                "open_issues": 0,
                 "owner": "smoketurner",
                 "repo": "dropwizard-riak",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "dropwizard",
+                  "dropwizard-riak",
+                  "java",
+                  "riak"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -545,12 +793,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Dropwizard Atomix Bundle",
+                "homepage": null,
                 "id": 114549327,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-12-02T15:53:49Z",
+                "open_issues": 0,
                 "owner": "smoketurner",
                 "repo": "dropwizard-atomix",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "atomix",
+                  "distributed-systems",
+                  "dropwizard",
+                  "dropwizard-atomix",
+                  "java",
+                  "jvm",
+                  "raft"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -568,12 +829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dropwizard Riemann bundle which simplifies dropwizard metrics integration into Riemann",
+                "homepage": null,
                 "id": 56362941,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-04-16T04:41:28Z",
+                "open_issues": 2,
                 "owner": "phaneesh",
                 "repo": "riemann-bundle",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -591,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Addon bundle for Dropwizard to support logging to a GELF-enabled server like Graylog or logstash",
+                "homepage": "http://developer.gini.net/dropwizard-gelf/1.3.0-1/",
                 "id": 6971688,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-13T02:01:54Z",
+                "open_issues": 3,
                 "owner": "gini",
                 "repo": "dropwizard-gelf",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -607,12 +878,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dropwizard integration for error logging to Sentry.",
+                "homepage": null,
                 "id": 20686563,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-05-25T10:02:59Z",
+                "open_issues": 2,
                 "owner": "tradier",
                 "repo": "dropwizard-raven",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "dropwizard",
+                  "sentry"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -623,12 +902,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 29034069,
                 "language": "Java",
+                "license": "EPL-1.0",
                 "last_commit": "2018-04-26T14:22:15Z",
+                "open_issues": 9,
                 "owner": "Wikia",
                 "repo": "dropwizard-logstash-encoder",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -646,12 +930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Job Scheduler implementation for dropwizard, integrating Guice and Quartz.",
+                "homepage": null,
                 "id": 6806578,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2015-08-31T14:48:31Z",
+                "open_issues": 4,
                 "owner": "jaredstehler",
                 "repo": "dropwizard-quartz",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -662,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scheduled jobs in dropwizard",
+                "homepage": null,
                 "id": 31146064,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T12:03:31Z",
+                "open_issues": 6,
                 "owner": "knowm",
                 "repo": "dropwizard-sundial",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -678,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quartz integration for dropwizard",
+                "homepage": null,
                 "id": 132052720,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-05-03T21:43:13Z",
+                "open_issues": 0,
                 "owner": "spinscale",
                 "repo": "dropwizard-jobs",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -701,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds support for Guice to Dropwizard",
+                "homepage": null,
                 "id": 6932907,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-05T20:49:32Z",
+                "open_issues": 21,
                 "owner": "HubSpot",
                 "repo": "dropwizard-guice",
-                "stars": 266
+                "stars": 266,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -717,12 +1021,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dropwizard guice integration",
+                "homepage": "http://xvik.github.io/dropwizard-guicey/",
                 "id": 23605023,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-25T07:34:43Z",
+                "open_issues": 4,
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
-                "stars": 241
+                "stars": 241,
+                "topics": [
+                  "dropwizard",
+                  "guice",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -733,12 +1046,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 45265198,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-14T16:11:58Z",
+                "open_issues": 16,
                 "owner": "HubSpot",
                 "repo": "dropwizard-guicier",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -756,12 +1074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build WARs from your Dropwizard apps",
+                "homepage": null,
                 "id": 14102712,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2023-04-10T02:17:25Z",
+                "open_issues": 5,
                 "owner": "twilio",
                 "repo": "wiztowar",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -772,12 +1095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adapter for a dropwizard appication (v0.8) so that it can be deployed as a war on a servlet 3 container",
+                "homepage": null,
                 "id": 30447812,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-05-09T19:00:27Z",
+                "open_issues": 6,
                 "owner": "rvs-fluid-it",
                 "repo": "wizard-in-a-box",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -791,15 +1119,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:40:01.849Z",
+    "last_updated": "2026-08-29T04:57:24.241Z",
     "original_repository_info": {
       "archived": false,
+      "description": null,
+      "homepage": null,
       "id": 38694527,
       "language": "Shell",
+      "license": null,
       "last_commit": "2018-12-07T17:53:51Z",
+      "open_issues": 1,
       "owner": "stve",
       "repo": "awesome-dropwizard",
-      "stars": 104
+      "stars": 104,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dropwizard",
+        "list"
+      ]
     },
     "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
     "enhanced_repository": "enhansome/enhansome-dropwizard",
