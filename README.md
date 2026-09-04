@@ -50,7 +50,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Authentication
 
-* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) ⭐ 38 | 🐛 5 | 🌐 Java | 📅 2026-08-25 - Dropwizard bundle managing authentication through JWT cookies
+* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) ⭐ 38 | 🐛 5 | 🌐 Java | 📅 2026-09-04 - Dropwizard bundle managing authentication through JWT cookies
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) ⚠️ Archived - LDAP authentication for Dropwizard
 
 ### Assets
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 502,643 | 🐛 105 | 📅 2026-09-02.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 502,975 | 🐛 106 | 📅 2026-09-02.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
