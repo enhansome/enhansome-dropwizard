@@ -109,7 +109,7 @@
             "id": 22608482,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T01:52:22Z",
+            "last_commit": "2026-09-07T02:53:54Z",
             "open_issues": 1,
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
@@ -523,7 +523,7 @@
                 "id": 49969573,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T02:58:01Z",
+                "last_commit": "2026-09-07T18:34:51Z",
                 "open_issues": 5,
                 "owner": "dhatim",
                 "repo": "dropwizard-jwt-cookie-authentication",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:20:15.296Z",
+    "last_updated": "2026-09-07T18:51:01.411Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
