@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "tkrille",
             "repo": "dropwizard-template-config",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "configuration",
               "dropwizard",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:57:53.619Z",
+    "last_updated": "2026-09-10T17:50:49.502Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
