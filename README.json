@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:53:34.446Z",
+    "last_updated": "2026-09-12T17:25:46.088Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1127,8 +1127,8 @@
       "id": 38694527,
       "language": "Shell",
       "license": null,
-      "last_commit": "2018-12-07T17:53:51Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-12T00:32:08Z",
+      "open_issues": 0,
       "owner": "stve",
       "repo": "awesome-dropwizard",
       "stars": 104,
@@ -1139,7 +1139,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "ae92b8db9ca32455f5162d0d65c9f22162f82dd8",
+    "original_repository_sha": "03f1f2f1cf3539f11be6d7fa439d8d61c2c62181",
     "enhanced_repository": "enhansome/enhansome-dropwizard",
     "enhanced_repository_description": null,
     "title": "Awesome Dropwizard with stars"
