@@ -26,12 +26,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) ⚠️ Archived - Serves Swagger UI static content and loads Swagger endpoints.
 * [breakerbox](https://github.com/yammer/breakerbox) ⚠️ Archived - Frontend for Tenacity + Archaius
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - A GraphQL bundle for Dropwizard
-* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) ⭐ 55 | 🐛 1 | 🌐 Java | 📅 2026-09-07 - Support for reading and writing Google Protocol Buffer objects within Dropwizard
+* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) ⭐ 55 | 🐛 1 | 🌐 Java | 📅 2026-09-14 - Support for reading and writing Google Protocol Buffer objects within Dropwizard
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) ⚠️ Archived - A Consul bundle for Dropwizard
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) ⚠️ Archived - enables you to write your config.yaml as a Freemarker template.
 * [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) ⚠️ Archived - A Zipkin bundle for Dropwizard
 * [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) ⭐ 46 | 🐛 2 | 🌐 Java | 📅 2026-01-26 - A circuit breaker design pattern for dropwizard
-* [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) ⭐ 44 | 🐛 0 | 🌐 Java | 📅 2026-05-03 - enables building SOAP web services and clients using JAX-WS API.
+* [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) ⭐ 45 | 🐛 0 | 🌐 Java | 📅 2026-05-03 - enables building SOAP web services and clients using JAX-WS API.
 * [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) ⚠️ Archived - Dropwizard bundle for processing and validating XMLs
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) ⭐ 32 | 🐛 6 | 🌐 Java | 📅 2024-02-04 - send and receive JSON via ActiveMQ in your Dropwizard application
 * [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) ⚠️ Archived - use a gRPC server in a Dropwizard service
@@ -50,8 +50,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Authentication
 
-* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) ⭐ 38 | 🐛 5 | 🌐 Java | 📅 2026-09-07 - Dropwizard bundle managing authentication through JWT cookies
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) ⚠️ Archived - LDAP authentication for Dropwizard
+* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) ⭐ 38 | 🐛 5 | 🌐 Java | 📅 2026-09-07 - Dropwizard bundle managing authentication through JWT cookies
 
 ### Assets
 
@@ -60,8 +60,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Data Stores
 
-* [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) ⚠️ Archived - A set of classes for using Elasticsearch in a Dropwizard service
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) ⚠️ Archived - Dropwizard support for Cassandra
+* [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) ⚠️ Archived - A set of classes for using Elasticsearch in a Dropwizard service
 * [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2015-05-17 - Factories and health checks for connecting to mongoDB.
 * [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2026-09-08 - Embedded OrientDB server for dropwizard
 * [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) ⚠️ Archived - Zookeeper service discovery bundle and client for dropwizard.
@@ -77,13 +77,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Logging
 
 * [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) ⚠️ Archived - Addon bundle for Dropwizard to support logging to a GELF-enabled servers
-* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) ⭐ 22 | 🐛 2 | 🌐 Java | 📅 2018-05-25 - Dropwizard integration for error logging to Sentry
+* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) ⭐ 23 | 🐛 2 | 🌐 Java | 📅 2018-05-25 - Dropwizard integration for error logging to Sentry
 * [dropwizard-logstash-encoder](https://github.com/Wikia/dropwizard-logstash-encoder) ⚠️ Archived - Dropwizard logging addon for sending logs using the logstash-logback-encoder
 
 ### Scheduled/Recurrence Jobs
 
-* [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) ⭐ 51 | 🐛 4 | 🌐 Java | 📅 2015-08-31 - Simple Job Scheduler implementation integrating Guice and Quartz.
-* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) ⭐ 37 | 🐛 6 | 🌐 Java | 📅 2026-08-11 - Scheduled jobs in Dropwizard using Sundial
+* [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) ⭐ 52 | 🐛 4 | 🌐 Java | 📅 2015-08-31 - Simple Job Scheduler implementation integrating Guice and Quartz.
+* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) ⭐ 38 | 🐛 6 | 🌐 Java | 📅 2026-08-11 - Scheduled jobs in Dropwizard using Sundial
 * [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2018-05-03 - Quartz integration for dropwizard
 
 ### Guice
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 505,674 | 🐛 106 | 📅 2026-09-02.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 506,011 | 🐛 106 | 📅 2026-09-02.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

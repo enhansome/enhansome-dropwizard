@@ -109,7 +109,7 @@
             "id": 22608482,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T02:53:54Z",
+            "last_commit": "2026-09-14T01:50:26Z",
             "open_issues": 1,
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "tkrille",
             "repo": "dropwizard-template-config",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "configuration",
               "dropwizard",
@@ -192,7 +192,7 @@
             "open_issues": 2,
             "owner": "smoketurner",
             "repo": "dropwizard-zipkin",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "distributed-tracing",
               "dropwizard",
@@ -246,7 +246,7 @@
             "open_issues": 0,
             "owner": "roskart",
             "repo": "dropwizard-jaxws",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
@@ -513,6 +513,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "dropwizard-auth-ldap",
+              "description": "LDAP authentication for Dropwizard",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Dropwizard Authentication Module for LDAP using JNDI.",
+                "homepage": null,
+                "id": 14966400,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2017-07-31T18:43:07Z",
+                "open_issues": 4,
+                "owner": "yammer",
+                "repo": "dropwizard-auth-ldap",
+                "stars": 38,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
+            },
+            {
+              "node_type": "item",
               "title": "dropwizard-jwt-cookie-authentication",
               "description": "Dropwizard bundle managing authentication through JWT cookies",
               "children": [],
@@ -535,27 +556,6 @@
                   "jwt",
                   "module"
                 ]
-              },
-              "first_seen": "2026-08-28T23:40:01.849Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dropwizard-auth-ldap",
-              "description": "LDAP authentication for Dropwizard",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Dropwizard Authentication Module for LDAP using JNDI.",
-                "homepage": null,
-                "id": 14966400,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2017-07-31T18:43:07Z",
-                "open_issues": 4,
-                "owner": "yammer",
-                "repo": "dropwizard-auth-ldap",
-                "stars": 37,
-                "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             }
@@ -617,6 +617,33 @@
           "children": [
             {
               "node_type": "item",
+              "title": "dropwizard-cassandra",
+              "description": "Dropwizard support for Cassandra",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Dropwizard support for Cassandra",
+                "homepage": null,
+                "id": 19749649,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2017-04-12T02:20:55Z",
+                "open_issues": 3,
+                "owner": "composable-systems",
+                "repo": "dropwizard-cassandra",
+                "stars": 60,
+                "topics": [
+                  "cassandra",
+                  "datastax-cassandra-driver",
+                  "dropwizard",
+                  "dropwizard-cassandra",
+                  "java"
+                ]
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
+            },
+            {
+              "node_type": "item",
               "title": "dropwizard-elasticsearch",
               "description": "A set of classes for using Elasticsearch in a Dropwizard service",
               "children": [],
@@ -635,33 +662,6 @@
                 "topics": [
                   "dropwizard",
                   "elasticsearch"
-                ]
-              },
-              "first_seen": "2026-08-28T23:40:01.849Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dropwizard-cassandra",
-              "description": "Dropwizard support for Cassandra",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Dropwizard support for Cassandra",
-                "homepage": null,
-                "id": 19749649,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2017-04-12T02:20:55Z",
-                "open_issues": 3,
-                "owner": "composable-systems",
-                "repo": "dropwizard-cassandra",
-                "stars": 59,
-                "topics": [
-                  "cassandra",
-                  "datastax-cassandra-driver",
-                  "dropwizard",
-                  "dropwizard-cassandra",
-                  "java"
                 ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
@@ -866,7 +866,7 @@
                 "open_issues": 3,
                 "owner": "gini",
                 "repo": "dropwizard-gelf",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
@@ -887,7 +887,7 @@
                 "open_issues": 2,
                 "owner": "tradier",
                 "repo": "dropwizard-raven",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "dropwizard",
                   "sentry"
@@ -939,7 +939,7 @@
                 "open_issues": 4,
                 "owner": "jaredstehler",
                 "repo": "dropwizard-quartz",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
@@ -960,7 +960,7 @@
                 "open_issues": 6,
                 "owner": "knowm",
                 "repo": "dropwizard-sundial",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:38:00.605Z",
+    "last_updated": "2026-09-14T19:34:46.210Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
