@@ -1027,10 +1027,10 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-09-09T10:18:00Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "dropwizard",
                   "guice",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:34:46.210Z",
+    "last_updated": "2026-09-15T18:27:29.536Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
