@@ -668,6 +668,31 @@
             },
             {
               "node_type": "item",
+              "title": "dropwizard-orient-server",
+              "description": "Embedded OrientDB server for dropwizard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Embedded OrientDB server for dropwizard",
+                "homepage": "http://xvik.github.io/dropwizard-orient-server/",
+                "id": 23267149,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-09-19T05:59:58Z",
+                "open_issues": 0,
+                "owner": "xvik",
+                "repo": "dropwizard-orient-server",
+                "stars": 21,
+                "topics": [
+                  "dropwizard",
+                  "java",
+                  "orientdb"
+                ]
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
+            },
+            {
+              "node_type": "item",
               "title": "dropwizard-mongo",
               "description": "Factories and health checks for connecting to mongoDB.",
               "children": [],
@@ -684,31 +709,6 @@
                 "repo": "dropwizard-mongo",
                 "stars": 20,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:40:01.849Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dropwizard-orient-server",
-              "description": "Embedded OrientDB server for dropwizard",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Embedded OrientDB server for dropwizard",
-                "homepage": "http://xvik.github.io/dropwizard-orient-server/",
-                "id": 23267149,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2026-09-16T03:54:31Z",
-                "open_issues": 0,
-                "owner": "xvik",
-                "repo": "dropwizard-orient-server",
-                "stars": 20,
-                "topics": [
-                  "dropwizard",
-                  "java",
-                  "orientdb"
-                ]
               },
               "first_seen": "2026-08-28T23:40:01.849Z"
             },
@@ -1026,7 +1026,7 @@
                 "id": 23605023,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-16T03:56:13Z",
+                "last_commit": "2026-09-19T06:04:39Z",
                 "open_issues": 5,
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:51:21.533Z",
+    "last_updated": "2026-09-19T17:25:43.713Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
