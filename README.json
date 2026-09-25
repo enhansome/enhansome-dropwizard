@@ -1026,7 +1026,7 @@
                 "id": 23605023,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-22T05:59:34Z",
+                "last_commit": "2026-09-25T08:24:04Z",
                 "open_issues": 5,
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:39:04.485Z",
+    "last_updated": "2026-09-25T18:51:36.746Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
