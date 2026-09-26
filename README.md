@@ -94,7 +94,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Deployment
 
-* [WizToWar](https://github.com/twilio/wiztowar) ⭐ 41 | 🐛 5 | 🌐 Java | 📅 2023-04-10 - Build WARs from your Dropwizard apps
+* [WizToWar](https://github.com/twilio/wiztowar) ⭐ 42 | 🐛 5 | 🌐 Java | 📅 2023-04-10 - Build WARs from your Dropwizard apps
 * [wizard-in-a-box](https://github.com/rvs-fluid-it/wizard-in-a-box) ⭐ 31 | 🐛 6 | 🌐 Java | 📅 2017-05-09 - deploy Dropwizard apps as a war
 
 ## Tutorials
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 510,362 | 🐛 107 | 📅 2026-09-02.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 510,864 | 🐛 107 | 📅 2026-09-02.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
