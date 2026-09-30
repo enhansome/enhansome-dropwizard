@@ -678,7 +678,7 @@
                 "id": 23267149,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-22T05:58:40Z",
+                "last_commit": "2026-09-30T06:20:00Z",
                 "open_issues": 0,
                 "owner": "xvik",
                 "repo": "dropwizard-orient-server",
@@ -1026,7 +1026,7 @@
                 "id": 23605023,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-25T08:24:04Z",
+                "last_commit": "2026-09-30T06:24:10Z",
                 "open_issues": 5,
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:37:21.045Z",
+    "last_updated": "2026-09-30T19:36:52.797Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
