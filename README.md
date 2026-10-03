@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 514,053 | 🐛 107 | 📅 2026-09-02.
 
 ## License
 
