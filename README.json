@@ -109,8 +109,8 @@
             "id": 22608482,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T00:53:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-05T09:52:00Z",
+            "open_issues": 2,
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
             "stars": 55,
@@ -309,7 +309,7 @@
             "open_issues": 6,
             "owner": "msteinhoff",
             "repo": "dropwizard-grpc",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:20:57.295Z",
+    "last_updated": "2026-10-05T21:37:14.923Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
