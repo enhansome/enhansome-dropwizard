@@ -87,7 +87,7 @@
             "open_issues": 2,
             "owner": "smoketurner",
             "repo": "dropwizard-graphql",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "dropwizard",
               "dropwizard-graphql",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:20:14.714Z",
+    "last_updated": "2026-10-17T17:31:31.224Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
