@@ -109,7 +109,7 @@
             "id": 22608482,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T00:24:30Z",
+            "last_commit": "2026-10-19T02:47:05Z",
             "open_issues": 2,
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:32:31.537Z",
+    "last_updated": "2026-10-19T20:10:22.084Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
