@@ -544,8 +544,8 @@
                 "id": 49969573,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T12:50:20Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-26T22:04:33Z",
+                "open_issues": 5,
                 "owner": "dhatim",
                 "repo": "dropwizard-jwt-cookie-authentication",
                 "stars": 38,
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:07:52.186Z",
+    "last_updated": "2026-10-27T19:37:18.062Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
