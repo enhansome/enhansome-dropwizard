@@ -22,7 +22,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Open Source
 
-* [tenacity](https://github.com/yammer/tenacity) ⭐ 204 | 🐛 2 | 🌐 Java | 📅 2023-12-15 - A Hystrix bundle for Dropwizard
+* [tenacity](https://github.com/yammer/tenacity) ⭐ 203 | 🐛 2 | 🌐 Java | 📅 2023-12-15 - A Hystrix bundle for Dropwizard
 * [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) ⚠️ Archived - Serves Swagger UI static content and loads Swagger endpoints.
 * [breakerbox](https://github.com/yammer/breakerbox) ⚠️ Archived - Frontend for Tenacity + Archaius
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - A GraphQL bundle for Dropwizard
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 525,642 | 🐛 105 | 📅 2026-09-02.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 526,237 | 🐛 105 | 📅 2026-09-02.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
