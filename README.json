@@ -109,8 +109,8 @@
             "id": 22608482,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T20:02:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T11:30:46Z",
+            "open_issues": 1,
             "owner": "dropwizard",
             "repo": "dropwizard-protobuf",
             "stars": 55,
@@ -330,7 +330,7 @@
             "open_issues": 1,
             "owner": "bascan",
             "repo": "aws-dropwizard",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:10:59.512Z",
+    "last_updated": "2026-11-02T22:52:28.665Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
