@@ -62,9 +62,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) ⚠️ Archived - Dropwizard support for Cassandra
 * [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) ⚠️ Archived - A set of classes for using Elasticsearch in a Dropwizard service
+* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) ⚠️ Archived - Zookeeper service discovery bundle and client for dropwizard.
 * [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) ⭐ 21 | 🐛 0 | 🌐 Java | 📅 2026-10-16 - Embedded OrientDB server for dropwizard
 * [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2015-05-17 - Factories and health checks for connecting to mongoDB.
-* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) ⚠️ Archived - Zookeeper service discovery bundle and client for dropwizard.
 * [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) ⭐ 3 | 🐛 1 | 🌐 Java | 📅 2017-05-12 - A Dropwizard Bundle for Etcd
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) ⚠️ Archived - Dropwizard support for Riak
 * [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) ⚠️ Archived - Integration with [Atomix](http://atomix.io/)
@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Awesome!
 
-Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 529,660 | 🐛 104 | 📅 2026-09-02.
+Check out more [awesome projects](https://github.com/sindresorhus/awesome) ⭐ 530,262 | 🐛 103 | 📅 2026-09-02.
 
 ## License
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

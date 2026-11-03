@@ -330,7 +330,7 @@
             "open_issues": 1,
             "owner": "bascan",
             "repo": "aws-dropwizard",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:01.849Z"
@@ -668,6 +668,27 @@
             },
             {
               "node_type": "item",
+              "title": "dropwizard-service-discovery",
+              "description": "Zookeeper service discovery bundle and client for dropwizard.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Zookeeper service discovery bundle and client for dropwizard.",
+                "homepage": null,
+                "id": 53789166,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2025-06-26T04:06:13Z",
+                "open_issues": 11,
+                "owner": "appform-io",
+                "repo": "dropwizard-service-discovery",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:40:01.849Z"
+            },
+            {
+              "node_type": "item",
               "title": "dropwizard-orient-server",
               "description": "Embedded OrientDB server for dropwizard",
               "children": [],
@@ -707,27 +728,6 @@
                 "open_issues": 0,
                 "owner": "eeb",
                 "repo": "dropwizard-mongo",
-                "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:40:01.849Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dropwizard-service-discovery",
-              "description": "Zookeeper service discovery bundle and client for dropwizard.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Zookeeper service discovery bundle and client for dropwizard.",
-                "homepage": null,
-                "id": 53789166,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2025-06-26T04:06:13Z",
-                "open_issues": 11,
-                "owner": "appform-io",
-                "repo": "dropwizard-service-discovery",
                 "stars": 20,
                 "topics": []
               },
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:52:28.665Z",
+    "last_updated": "2026-11-03T20:37:32.637Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
