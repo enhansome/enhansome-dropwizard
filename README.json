@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "tkrille",
             "repo": "dropwizard-template-config",
-            "stars": 52,
+            "stars": 51,
             "topics": [
               "configuration",
               "dropwizard",
@@ -699,8 +699,8 @@
                 "id": 23267149,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-16T05:24:28Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-03T23:02:47Z",
+                "open_issues": 1,
                 "owner": "xvik",
                 "repo": "dropwizard-orient-server",
                 "stars": 21,
@@ -1026,7 +1026,7 @@
                 "id": 23605023,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-21T06:13:13Z",
+                "last_commit": "2026-11-04T06:50:33Z",
                 "open_issues": 6,
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:37:32.637Z",
+    "last_updated": "2026-11-04T20:55:24.402Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
