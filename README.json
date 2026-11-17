@@ -40,7 +40,7 @@
             "open_issues": 3,
             "owner": "smoketurner",
             "repo": "dropwizard-swagger",
-            "stars": 180,
+            "stars": 179,
             "topics": [
               "dropwizard",
               "dropwizard-swagger",
@@ -1026,8 +1026,8 @@
                 "id": 23605023,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-16T23:02:58Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-17T06:18:11Z",
+                "open_issues": 6,
                 "owner": "xvik",
                 "repo": "dropwizard-guicey",
                 "stars": 242,
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:29:43.282Z",
+    "last_updated": "2026-11-17T22:37:46.642Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1131,7 +1131,7 @@
       "open_issues": 0,
       "owner": "stve",
       "repo": "awesome-dropwizard",
-      "stars": 104,
+      "stars": 103,
       "topics": [
         "awesome",
         "awesome-list",
