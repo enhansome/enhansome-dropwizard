@@ -1006,7 +1006,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2020-02-05T20:49:32Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "HubSpot",
                 "repo": "dropwizard-guice",
                 "stars": 266,
@@ -1119,7 +1119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:52:33.982Z",
+    "last_updated": "2026-11-24T23:37:30.500Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
